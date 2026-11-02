@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Local configuration and macOS metadata
+.env
+.DS_Store
+
+# Generated scrape output
+output/
+*.csv
+output/
+
+#VScode 
+.vscode/
+
+
